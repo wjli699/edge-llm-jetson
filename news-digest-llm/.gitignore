@@ -1,0 +1,15 @@
+# Credentials
+.env
+
+# Python
+nd-venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Data (optional - remove if you want to back up the DB)
+data/articles.db
+
+# Logs
+logs/
+*.log
