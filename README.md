@@ -113,6 +113,7 @@ git clone https://github.com/<your-username>/edge-llm-jetson.git
 cd edge-llm-jetson/news-digest-llm
 
 bash setup.sh
+```
 
 ---
 
